@@ -1,0 +1,39 @@
+#box1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    transition: 8s ease all;
+    padding: 10px;
+}
+body{
+    background-color: black;
+}
+#box2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    transition: 10s ease all;
+    padding: 10px;
+}  #box3{
+    background-color: gold;
+    height: 200px;
+    width: 200px;
+    transition: 5s ease all;
+    padding: 10px;
+}  #box4{
+    background-color: crimson;
+    height: 200px;
+    width: 200px;
+    transition: 7s ease all;
+    padding: 10px;
+}
+#head{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+#btn{
+    background-color: palevioletred;
+    padding: 10px;
+    
+}
